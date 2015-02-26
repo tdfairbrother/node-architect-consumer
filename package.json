@@ -24,5 +24,23 @@
   },
   "dependencies": {
     "sqs-consumer": "^2.1.0"
-  }
+  },
+  "description": "Node Architect Consumer ====================",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tdfairbrother/node-architect-consumer.git"
+  },
+  "keywords": [
+    "architect",
+    "sqs-consumer"
+  ],
+  "author": "Tim Fairbrother <tdfairbrother@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tdfairbrother/node-architect-consumer/issues"
+  },
+  "homepage": "https://github.com/tdfairbrother/node-architect-consumer"
 }
