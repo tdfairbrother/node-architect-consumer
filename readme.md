@@ -1,7 +1,7 @@
 Node Architect Consumer
 ====================
 
-[![Build Status](https://travis-ci.org/tdfairbrother/node-architect-consumer.svg)](https://travis-ci.org/tdfairbrother/node-architect-consumer)
+[![Build Status](https://semaphoreapp.com/api/v1/projects/d0e9e9f4-05b7-4cf3-89d7-2f008fddedb0/359584/badge.png)](https://semaphoreapp.com/tdfairbrother/node-architect-consumer)
 
 [![Coverage Status](https://coveralls.io/repos/tdfairbrother/node-architect-consumer/badge.svg)](https://coveralls.io/r/tdfairbrother/node-architect-consumer)
 
